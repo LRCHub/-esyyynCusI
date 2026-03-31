@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "アフターペイン",
+  "base_artist": "MILGRAM ムウ (CV: 香里有佐)",
+  "createdAt": "2026-03-31T10:10:51.296450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アフターペイン",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": true,
+      "path": "select/01_アフターペイン_MILGRAM_ムウ_(CV__香里有佐).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アフターペイン",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": true,
+      "path": "select/02_アフターペイン_MILGRAM_ムウ_(CV__香里有佐).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アフターペイン",
+      "artist": "香里有佐",
+      "has_synced": true,
+      "path": "select/03_アフターペイン_香里有佐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アフターペイン",
+      "artist": "MILGRAM ムウ",
+      "has_synced": true,
+      "path": "select/04_アフターペイン_MILGRAM_ムウ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アフターペイン",
+      "artist": "MILGRAM 楠夢羽 (CV: 香里有佐)",
+      "has_synced": true,
+      "path": "select/05_アフターペイン_MILGRAM_楠夢羽_(CV__香里有佐).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アフターペイン",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/pl_01_アフターペイン_MILGRAM_ムウ_(CV__香里有佐).txt"
+    }
+  ]
+}
